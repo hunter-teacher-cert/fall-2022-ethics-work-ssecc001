@@ -5,8 +5,6 @@ def find_date(line):
     pattern = r"([A-Za-z][-,A-Za-z. ']+[ ]*)+"
     result = re.findall(pattern,line)
 
-    pattern=r'((?:Mrs|Mr|Ms|Dr))'
-    result = result + re.findall(pattern,line)
     return result
 
 
