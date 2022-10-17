@@ -1,0 +1,19 @@
+body {
+  background: white;
+  font-family: sans-serif
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+div {
+  font-family: cursive;
+  font-size: 9px;
+}
+
+.myImage {
+  background-image: url("lasagna15.jpg");
+}
