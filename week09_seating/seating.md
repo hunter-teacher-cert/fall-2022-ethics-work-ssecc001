@@ -13,4 +13,4 @@ Make sure this description states how it should improve equity and how it might 
 The new algorithm would check these conditions and seat them accordingly.Travelers booking flights together will have seats next to each other prioritizing small children next to their accompanying adult.  Anyone with physical handicaps should be sat towards the front of the plane. 
 
 
- Although this new method of seating would not necessarily be perfect, it should reduce the amount of families being separated on the plane. People who pay for their seat would still have priority of where they would like to seat.
+ Although this new method of seating would not necessarily be perfect, it should reduce the amount of families being separated on the plane. For those travelers that do not fit the conditions above would then be randomly assigned to an open seat. People who pay for their seat would still have priority of where they would like to seat.
