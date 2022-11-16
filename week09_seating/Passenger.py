@@ -1,4 +1,4 @@
-
+# partner Stacy Goldstein
 # we are not sure how to implement this to the exisiting shell. But it will take the passengers that did not buy seats and seat them in groups of booking.
 #Passenger.txt shows how many people didnt not purchase tickets with seat selection. This will
 #tell us how big the group is and how many childern are in the group. ex. A,3,1 means group of 3 and 1 child
