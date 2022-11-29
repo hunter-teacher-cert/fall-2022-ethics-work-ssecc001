@@ -53,10 +53,10 @@ function sepsis() {
     Respiratory();
     heart();
     severeSepsis();
-    infected = prompt("Does the patient have an infection? ");
+    infected = prompt("Does the patient have an infection? Yes or No ");
     sepsisPatient = (userName + " meets severe sepsis criteria. Follow your guidelines for sepsis, which typically include aggressive fluid resuscitation, early, broad-spectrum antibiotics, ICU consultation, CVP evaluation, and occasionally pressors and transfusion.");
     Patient = userName + " meets severe sepsis criteria";
-    if (temp=="Yes" && (heartRate == "Yes") && (resRate == "Yes") && (infected == "Yes")) {
+    if (temp=="Yes" && (heartRate == "Yes") && (resRate == "Yes") && (infected == "Yes") && (lactic == "Yes" || lactic == "No")) {
       console.log(sepsisPatient);
       sepsisPatientList.push(userName);
     } else if ((temp == "Yes") && heartRate == "Yes" && (lactic == "Yes") && infected == "No") {
